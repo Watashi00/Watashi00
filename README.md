@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Rodrigo (Watashi00)
 
-Sou **Desenvolvedor Full Stack** com foco em **Java, Spring Boot, SQL/NoSQL e Front-end**.  
-Apaixonado por criar soluções completas, desde a API até interfaces interativas.  
+Sou **Desenvolvedor Back-end** com foco em **Java, Spring Boot, SQL/NoSQL**.  
+Apaixonado por criar soluções completas.  
 
 ---
 
