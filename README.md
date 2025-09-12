@@ -44,3 +44,4 @@ Apaixonado por criar soluções completas.
 
 ### 💬 Curiosidade
 Sempre buscando aprender novas tecnologias, frameworks e melhorar a experiência do usuário nas aplicações que desenvolvo.  
+
