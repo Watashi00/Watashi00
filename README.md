@@ -38,7 +38,6 @@ Apaixonado por criar soluções completas.
 ## 📫 Contato
 
 - E-mail: rodrigoassuncao3223@gmail.com  
-- LinkedIn: [https://www.linkedin.com/in/watashi00](https://linkedin.com/in/rodrigo-assunção-silva-do-amarante)
 
 ---
 
