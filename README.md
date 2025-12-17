@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou Rodrigo (Watashi00)
+# 👋 Hello, I’m Rodrigo (Watashi00)
 
-Sou **Desenvolvedor Back-end** com foco em **Java, Spring Boot, SQL/NoSQL**.  
-Apaixonado por criar soluções completas.  
+I am a **Back-end Developer** focused on **Java, Spring Boot, SQL/NoSQL**.  
+Passionate about building complete, end-to-end solutions.
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## 🛠 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
@@ -23,23 +23,21 @@ Apaixonado por criar soluções completas.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 ![Watashi00 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Watashi00&show_icons=true&theme=radical)
 
-![Watashi00 Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Watashi00&layout=compact&theme=radical)
+![Watashi00 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Watashi00&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Watashi00&theme=radical)
 
 ---
 
+## 📫 Contact
 
+- Email: rodrigoassuncao3223@gmail.com  
 
-## 📫 Contato
-
-- E-mail: rodrigoassuncao3223@gmail.com  
 ---
 
-### 💬 Curiosidade
-Sempre buscando aprender novas tecnologias, frameworks e melhorar a experiência do usuário nas aplicações que desenvolvo.  
-
+### 💬 Fun Fact
+Always looking to learn new technologies, frameworks, and continuously improve the user experience in the applications I build.
