@@ -38,7 +38,6 @@ Apaixonado por criar soluções completas.
 ## 📫 Contato
 
 - E-mail: rodrigoassuncao3223@gmail.com  
-
 ---
 
 ### 💬 Curiosidade
