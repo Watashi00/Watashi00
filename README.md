@@ -5,7 +5,7 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 
 ---
 
-## 🧠 Professional Overview
+## Professional Overview
 
 - Back-end focused engineer with an architecture-first mindset  
 - Experience designing APIs, services, and data-driven systems  
@@ -16,7 +16,7 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 
 ## 🛠 Technologies & Tools
 
-### 🧑‍💻 Programming Languages
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
@@ -25,20 +25,20 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 
 ---
 
-### ⚙️ Frameworks & Runtimes
+### Frameworks & Runtimes
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
-### 🌐 Web Technologies
+### Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### 🗄️ Databases & Storage
+### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-0F4B8E?style=for-the-badge)
@@ -46,21 +46,21 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 
 ---
 
-### 🔁 Messaging, Caching & Async
+### Messaging, Caching & Async
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
 
-### 🧰 Dev Tools
+### Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🧩 Architecture & Back-end Design
+## Architecture & Back-end Design
 
 - Layered Architecture (Controller / Service / Repository)  
 - Clean Code & SOLID principles  
@@ -72,7 +72,7 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 
 ---
 
-## ☁️ Cloud, DevOps & Infrastructure
+## Cloud, DevOps & Infrastructure
 
 - Docker & Docker Compose  
 - Environment-based configuration (dev / test / prod)  
@@ -82,7 +82,7 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 
 ---
 
-## ⚡ Performance & Scalability
+## Performance & Scalability
 
 - Application-level performance tuning  
 - Memory and CPU awareness  
@@ -92,7 +92,7 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 
 ---
 
-## 🧪 Testing & Code Quality
+## Testing & Code Quality
 
 - Unit testing (JUnit, Mockito)  
 - Integration testing for REST APIs  
@@ -102,7 +102,7 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 
 ---
 
-## 🚀 My Projects
+## My Projects
 
 > Featured projects will appear here.  
 > Currently under maintenance and preparation.
@@ -114,7 +114,7 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 <td width="33%" valign="top">
 
 ### 🛠 Project Alpha
-**Status:** 🚧 Maintenance  
+**Status:** Maintenance  
 **Focus:** Backend Architecture  
 **Stack:** Java · Spring Boot · SQL  
 
@@ -126,7 +126,7 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 <td width="33%" valign="top">
 
 ### 🛠 Project Beta
-**Status:** 🚧 Maintenance  
+**Status:** Maintenance  
 **Focus:** Distributed Systems  
 **Stack:** Kafka · RabbitMQ · Redis  
 
@@ -138,7 +138,7 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 <td width="33%" valign="top">
 
 ### 🛠 Project Gamma
-**Status:** 🚧 Maintenance  
+**Status:** Maintenance  
 **Focus:** Performance & Systems  
 **Stack:** C · Assembly · JVM internals  
 
