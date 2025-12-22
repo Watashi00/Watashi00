@@ -1,100 +1,153 @@
 # 👋 Hello, I’m Rodrigo (Watashi00)
 
-I am a **Senior Back-end Developer** specialized in **Java, Spring Boot, and distributed systems**, with strong experience designing **scalable, maintainable, and production-ready architectures**.
+I am a **Senior Back-end Developer** with a strong focus on **Java, Spring Boot, and distributed systems**, while maintaining solid experience across **multiple languages, runtimes, and architectural styles**.
 
-I focus on building **robust back-end solutions**, from database modeling and business rules to API design, security, and deployment strategies.
-
----
-
-## 🧠 Core Expertise
-
-- Back-end architecture and system design  
-- RESTful API design (API-first mindset)  
-- Clean Architecture & layered systems  
-- SOLID principles and Clean Code  
-- Domain-driven thinking (business rules first)  
-- High cohesion and low coupling  
-- End-to-end responsibility (design → delivery → maintenance)
+My work revolves around **designing scalable, resilient, and production-ready systems**, with an emphasis on architecture, performance, and long-term maintainability.
 
 ---
 
-## 🛠 Technologies & Tools
+## 🧠 Professional Profile
 
-### Languages & Frameworks
+- Senior-level back-end engineering mindset  
+- Architecture-first approach  
+- Strong focus on scalability, reliability, and maintainability  
+- Comfortable working across different stacks and paradigms  
+- End-to-end ownership: design → implementation → deployment → evolution  
+
+---
+
+## 🛠 Technologies & Languages
+
+### Core Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Front-end (Support & Integration)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> Java is my primary stack, but I actively work with **C, Node.js, and low-level concepts** when performance, control, or system-level understanding is required.
 
-### Databases & Persistence
+---
+
+### Frameworks & Runtimes
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+- Spring Boot (deep internals understanding)  
+- REST APIs and backend services  
+- Node.js for services, tooling, and integrations  
+- Front-end used mainly for integration and system completeness  
+
+---
+
+## 🗄️ Databases & Storage
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-0F4B8E?style=for-the-badge)
 
-- Relational data modeling  
-- JPA / Hibernate  
-- Query optimization  
+- Relational modeling and normalization  
+- JPA / Hibernate internals  
+- Query optimization and indexing strategies  
 - Transaction management  
-- Database migrations (Flyway / Liquibase)  
+- Migrations (Flyway / Liquibase)  
+- In-memory databases for testing and local environments  
 
 ---
 
 ## 🧩 Architecture & System Design
 
-- Layered Architecture (Controller / Service / Repository)  
+- Clean Architecture & layered systems  
+- SOLID principles applied pragmatically  
 - DTOs, mappers, and validation strategies  
 - Global exception handling  
 - API versioning strategies  
-- Authentication & authorization (JWT, role-based access)  
+- Authentication & authorization (JWT, RBAC)  
 - OpenAPI / Swagger documentation  
-- Configuration management by environment (dev / test / prod)
 
 ---
 
-## ⚙️ DevOps & Infrastructure
+## 🧠 Advanced Topics (In Progress & Applied)
+
+### Spring Boot Internals
+- Auto-configuration mechanics  
+- Bean lifecycle and context management  
+- Conditional beans and profiles  
+- Performance implications of configuration choices  
+
+### Microservices & Distributed Systems
+- Microservices architecture patterns  
+- API Gateway design and routing strategies  
+- Service-to-service communication  
+- Configuration and environment isolation  
+
+### Message Brokers & Async Processing
+![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+- Event-driven architecture concepts  
+- Kafka fundamentals (topics, partitions, consumers)  
+- RabbitMQ messaging patterns  
+- Redis for caching, pub/sub, and fast-access data  
+- Async processing and eventual consistency  
+
+---
+
+## ☁️ Cloud-Native & Infrastructure
 
 - Docker & Docker Compose  
-- Environment variables and secrets handling  
+- Environment-based configuration  
+- Secrets and environment variables management  
 - CI/CD fundamentals (GitHub Actions)  
-- Linux-based development and deployment  
-- Basic monitoring and logging strategies  
-
-> Strong belief that **code quality and infrastructure quality walk together**.
+- Linux-first development mindset  
+- Cloud-native application principles  
 
 ---
 
-## 🧪 Testing & Quality Assurance
+## ⚡ Performance & Scalability
 
-- Unit testing with JUnit & Mockito  
+- Performance tuning at application level  
+- Memory and CPU awareness  
+- Efficient data access patterns  
+- C and low-level programming concepts for performance-critical paths  
+- Scalability planning and bottleneck identification  
+
+---
+
+## 🧪 Testing & Code Quality
+
+- Unit testing (JUnit, Mockito)  
 - Integration testing for REST APIs  
 - Focus on testable business logic  
-- Refactoring-oriented mindset  
-- Emphasis on long-term maintainability  
+- Refactoring-driven development  
+- Emphasis on readability and maintainability  
 
 ---
 
-## 🚀 Professional Experience & Projects
+## 🚀 My Projects
 
-- Design and development of **real-world back-end systems**  
-- CRUD systems with complex business rules  
-- API-first applications consumed by web clients  
-- Experience delivering systems ready for production use  
-- Ownership mindset: design, implementation, evolution, and support  
+> This section will host my main projects.  
+> Currently under maintenance and preparation.
+
+### 🛠 Project Alpha
+**Status:** 🚧 Maintenance  
+**Description:** Backend-focused system emphasizing architecture, scalability, and clean design.  
+🔗 _Repository link coming soon_
 
 ---
 
-## 📈 Currently Focusing On
+### 🛠 Project Beta
+**Status:** 🚧 Maintenance  
+**Description:** Experimental project involving distributed systems and message brokers.  
+🔗 _Repository link coming soon_
 
-- Advanced Spring Boot internals  
-- Microservices architecture patterns  
-- API Gateway design  
-- Message brokers (Kafka / RabbitMQ concepts)  
-- Scalability, performance, and fault tolerance  
+---
+
+### 🛠 Project Gamma
+**Status:** 🚧 Maintenance  
+**Description:** Performance-oriented project exploring low-level and backend optimizations.  
+🔗 _Repository link coming soon_
 
 ---
 
@@ -121,5 +174,5 @@ I focus on building **robust back-end solutions**, from database modeling and bu
 
 ### 💬 Personal Note
 
-I value **clarity, architecture, and long-term thinking**.  
-My goal is not just to make systems work — but to make them **easy to evolve, scale, and trust**.
+I believe good software is built with **clear architecture, technical depth, and long-term vision**.  
+My goal is to design systems that **scale well, fail gracefully, and remain understandable over time**.
