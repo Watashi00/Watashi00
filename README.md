@@ -114,9 +114,9 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 <td width="33%" valign="top">
 
 ### 🛠 Project Alpha
-**Status:** Maintenance  
-**Focus:** Backend Architecture  
-**Stack:** Java · Spring Boot · SQL  
+**Status:** Ocious
+**Focus:**
+**Stack:**
 
 <a href="#" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Repository-Maintenance-yellow?style=for-the-badge">
@@ -126,9 +126,9 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 <td width="33%" valign="top">
 
 ### 🛠 Project Beta
-**Status:** Maintenance  
-**Focus:** Distributed Systems  
-**Stack:** Kafka · RabbitMQ · Redis  
+**Status:** Ocious
+**Focus:**
+**Stack:**
 
 <a href="#" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Repository-Maintenance-yellow?style=for-the-badge">
@@ -138,9 +138,9 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 <td width="33%" valign="top">
 
 ### 🛠 Project Gamma
-**Status:** Maintenance  
-**Focus:** Performance & Systems  
-**Stack:** C · Assembly · JVM internals  
+**Status:** Ocious
+**Focus:**
+**Stack:**
 
 <a href="#" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Repository-Maintenance-yellow?style=for-the-badge">
