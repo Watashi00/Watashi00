@@ -1,116 +1,93 @@
 # 👋 Hello, I’m Rodrigo (Watashi00)
 
-I am a **Senior Back-end Developer** with a strong focus on **Java, Spring Boot, and distributed systems**, while maintaining solid experience across **multiple languages, runtimes, and architectural styles**.
-
-My work revolves around **designing scalable, resilient, and production-ready systems**, with an emphasis on architecture, performance, and long-term maintainability.
-
----
-
-## 🧠 Professional Profile
-
-- Senior-level back-end engineering mindset  
-- Architecture-first approach  
-- Strong focus on scalability, reliability, and maintainability  
-- Comfortable working across different stacks and paradigms  
-- End-to-end ownership: design → implementation → deployment → evolution  
+I am a **Back-end Developer** focused on **Java, Spring Boot, SQL/NoSQL**, with a strong interest in **system architecture, scalability, distributed systems, and performance**.  
+Passionate about building **complete, end-to-end solutions**, from low-level details to high-level design decisions.
 
 ---
 
-## 🛠 Technologies & Languages
+## 🧠 Professional Overview
 
-### Core Languages
+- Back-end focused engineer with an architecture-first mindset  
+- Experience designing APIs, services, and data-driven systems  
+- Comfortable working across **multiple languages and runtimes**, not limited to a single stack  
+- Strong concern for maintainability, performance, and long-term evolution of systems  
+
+---
+
+## 🛠 Technologies & Tools
+
+### 🧑‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-> Java is my primary stack, but I actively work with **C, Node.js, and low-level concepts** when performance, control, or system-level understanding is required.
-
 ---
 
-### Frameworks & Runtimes
+### ⚙️ Frameworks & Runtimes
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-- Spring Boot (deep internals understanding)  
-- REST APIs and backend services  
-- Node.js for services, tooling, and integrations  
-- Front-end used mainly for integration and system completeness  
+---
+
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 🗄️ Databases & Storage
-
+### 🗄️ Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-0F4B8E?style=for-the-badge)
-
-- Relational modeling and normalization  
-- JPA / Hibernate internals  
-- Query optimization and indexing strategies  
-- Transaction management  
-- Migrations (Flyway / Liquibase)  
-- In-memory databases for testing and local environments  
+![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
 ---
 
-## 🧩 Architecture & System Design
+### 🔁 Messaging, Caching & Async
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-- Clean Architecture & layered systems  
-- SOLID principles applied pragmatically  
-- DTOs, mappers, and validation strategies  
+---
+
+### 🧰 Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🧩 Architecture & Back-end Design
+
+- Layered Architecture (Controller / Service / Repository)  
+- Clean Code & SOLID principles  
+- DTOs, validation, and mapping strategies  
 - Global exception handling  
 - API versioning strategies  
-- Authentication & authorization (JWT, RBAC)  
+- Authentication & authorization (JWT, role-based access)  
 - OpenAPI / Swagger documentation  
 
 ---
 
-## 🧠 Advanced Topics (In Progress & Applied)
-
-### Spring Boot Internals
-- Auto-configuration mechanics  
-- Bean lifecycle and context management  
-- Conditional beans and profiles  
-- Performance implications of configuration choices  
-
-### Microservices & Distributed Systems
-- Microservices architecture patterns  
-- API Gateway design and routing strategies  
-- Service-to-service communication  
-- Configuration and environment isolation  
-
-### Message Brokers & Async Processing
-![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-- Event-driven architecture concepts  
-- Kafka fundamentals (topics, partitions, consumers)  
-- RabbitMQ messaging patterns  
-- Redis for caching, pub/sub, and fast-access data  
-- Async processing and eventual consistency  
-
----
-
-## ☁️ Cloud-Native & Infrastructure
+## ☁️ Cloud, DevOps & Infrastructure
 
 - Docker & Docker Compose  
-- Environment-based configuration  
-- Secrets and environment variables management  
-- CI/CD fundamentals (GitHub Actions)  
-- Linux-first development mindset  
+- Environment-based configuration (dev / test / prod)  
+- Linux-based development environment  
+- CI/CD fundamentals with GitHub Actions  
 - Cloud-native application principles  
 
 ---
 
 ## ⚡ Performance & Scalability
 
-- Performance tuning at application level  
+- Application-level performance tuning  
 - Memory and CPU awareness  
 - Efficient data access patterns  
-- C and low-level programming concepts for performance-critical paths  
+- Low-level programming concepts (C & Assembly)  
 - Scalability planning and bottleneck identification  
 
 ---
@@ -120,48 +97,69 @@ My work revolves around **designing scalable, resilient, and production-ready sy
 - Unit testing (JUnit, Mockito)  
 - Integration testing for REST APIs  
 - Focus on testable business logic  
-- Refactoring-driven development  
-- Emphasis on readability and maintainability  
+- Refactoring-oriented mindset  
+- Long-term maintainability focus  
 
 ---
 
 ## 🚀 My Projects
 
-> This section will host my main projects.  
+> Featured projects will appear here.  
 > Currently under maintenance and preparation.
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### 🛠 Project Alpha
 **Status:** 🚧 Maintenance  
-**Description:** Backend-focused system emphasizing architecture, scalability, and clean design.  
-🔗 _Repository link coming soon_
+**Focus:** Backend Architecture  
+**Stack:** Java · Spring Boot · SQL  
 
----
+<a href="#" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Repository-Maintenance-yellow?style=for-the-badge">
+</a>
+
+</td>
+<td width="33%" valign="top">
 
 ### 🛠 Project Beta
 **Status:** 🚧 Maintenance  
-**Description:** Experimental project involving distributed systems and message brokers.  
-🔗 _Repository link coming soon_
+**Focus:** Distributed Systems  
+**Stack:** Kafka · RabbitMQ · Redis  
 
----
+<a href="#" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Repository-Maintenance-yellow?style=for-the-badge">
+</a>
+
+</td>
+<td width="33%" valign="top">
 
 ### 🛠 Project Gamma
 **Status:** 🚧 Maintenance  
-**Description:** Performance-oriented project exploring low-level and backend optimizations.  
-🔗 _Repository link coming soon_
+**Focus:** Performance & Systems  
+**Stack:** C · Assembly · JVM internals  
 
----
+<a href="#" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Repository-Maintenance-yellow?style=for-the-badge">
+</a>
 
-## 🌍 Languages
+</td>
+</tr>
+</table>
 
-- **Portuguese** — Native  
-- **English** — Professional / Technical  
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
 ![Watashi00 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Watashi00&show_icons=true&theme=radical)
+
 ![Watashi00 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Watashi00&layout=compact&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Watashi00&theme=radical)
 
 ---
@@ -172,7 +170,6 @@ My work revolves around **designing scalable, resilient, and production-ready sy
 
 ---
 
-### 💬 Personal Note
+### 💬 Fun Fact
 
-I believe good software is built with **clear architecture, technical depth, and long-term vision**.  
-My goal is to design systems that **scale well, fail gracefully, and remain understandable over time**.
+Always looking to learn new technologies, explore different paradigms, and continuously improve how **systems are designed, built, and scaled**.
