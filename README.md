@@ -175,3 +175,7 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 ### 💬 Fun Fact
 
 Always looking to learn new technologies, explore different paradigms, and continuously improve how **systems are designed, built, and scaled**.
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Watashi00.Watashi00&"  />
+</div>
