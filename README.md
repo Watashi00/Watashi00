@@ -162,10 +162,6 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 
 <div align="center">
 
-![Watashi00 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Watashi00&show_icons=true&theme=radical)
-
-![Watashi00 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Watashi00&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Watashi00&theme=radical)
 
 </div>
