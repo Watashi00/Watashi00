@@ -1,168 +1,155 @@
-# 👋 Hello, I’m Rodrigo (Watashi00)
+# 👋 Hi, I’m Rodrigo (Watashi00)
 
-I am a **Back-end Developer** focused on **Java, Spring Boot, SQL/NoSQL**, with a strong interest in **system architecture, scalability, distributed systems, and performance**.  
-Passionate about building **complete, end-to-end solutions**, from low-level details to high-level design decisions.
+I am a **Back-end Engineer** focused on **Java, Spring Boot, and SQL/NoSQL**, with a strong emphasis on **system architecture, scalability, distributed systems, and performance**.
+
+I enjoy designing and building **end-to-end systems**, from low-level implementation details to high-level architectural decisions, always prioritizing maintainability and long-term evolution.
 
 ---
 
-<div align="center">
-  
-## Professional Overview
+## 🧭 Professional Overview
 
-- Back-end focused engineer with an architecture-first mindset  
-- Experience designing APIs, services, and data-driven systems  
-- Comfortable working across **multiple languages and runtimes**, not limited to a single stack  
-- Strong concern for maintainability, performance, and long-term evolution of systems  
+* Back-end–focused engineer with an **architecture-first mindset**
+* Experience designing **APIs, services, gateways, and data-driven systems**
+* Comfortable working across **multiple languages, runtimes, and paradigms**
+* Strong focus on **performance, scalability, and system reliability**
+* Pragmatic approach to software design and infrastructure decisions
 
 ---
 
 ## 🛠 Technologies & Tools
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge\&logo=assemblyscript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ---
 
 ### Frameworks & Runtimes
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 
 ---
 
 ### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ---
 
 ### Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-0F4B8E?style=for-the-badge)
-![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge\&logo=apachecassandra\&logoColor=white)
 
 ---
 
 ### Messaging, Caching & Async
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
 
 ---
 
-### Dev Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Object Storage & CDN
+
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+
+* S3-compatible object storage
+* Static assets and artifact storage
+* Versioned uploads and lifecycle policies
+* Backend integration for file handling and media delivery
+* Cost-aware storage strategies (egress-free with R2)
 
 ---
 
-</div>
+### Cloud, Networking & Edge
 
-## Architecture & Back-end Design
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
 
-- Layered Architecture (Controller / Service / Repository)  
-- Clean Code & SOLID principles  
-- DTOs, validation, and mapping strategies  
-- Global exception handling  
-- API versioning strategies  
-- Authentication & authorization (JWT, role-based access)  
-- OpenAPI / Swagger documentation  
+* DNS & zone management
+* Reverse proxy and edge routing
+* SSL/TLS termination
+* CDN and caching strategies
+* Rate limiting and basic WAF concepts
 
 ---
 
-## Cloud, DevOps & Infrastructure
+### Dev Tools & Infrastructure
 
-- Docker & Docker Compose  
-- Environment-based configuration (dev / test / prod)  
-- Linux-based development environment  
-- CI/CD fundamentals with GitHub Actions  
-- Cloud-native application principles  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
 
-## Performance & Scalability
+## 🏗 Architecture & Back-end Design
 
-- Application-level performance tuning  
-- Memory and CPU awareness  
-- Efficient data access patterns  
-- Low-level programming concepts (C & Assembly)  
-- Scalability planning and bottleneck identification  
-
----
-
-## Testing & Code Quality
-
-- Unit testing (JUnit, Mockito)  
-- Integration testing for REST APIs  
-- Focus on testable business logic  
-- Refactoring-oriented mindset  
-- Long-term maintainability focus  
+* Layered Architecture (Controller / Service / Repository)
+* Clean Code and SOLID principles
+* DTOs, validation, and mapping strategies
+* Centralized error handling and API contracts
+* API versioning and backward compatibility
+* Authentication & authorization (JWT, role-based access)
+* OpenAPI / Swagger documentation
+* Gateway and edge-aware system design
+* Object storage–backed architectures (S3/R2)
 
 ---
 
-## My Projects
+## ☁️ Cloud, DevOps & Infrastructure
 
-> Featured projects will appear here.  
-> Currently under maintenance and preparation.
+* Docker & Docker Compose
+* Environment-based configuration (dev / test / prod)
+* Linux-based development environments
+* CI/CD fundamentals using GitHub Actions
+* Cloud-native and edge-oriented application design
+
+---
+
+## ⚙️ Performance & Scalability
+
+* Application-level performance tuning
+* Memory and CPU awareness
+* Efficient data access and query design
+* Low-level programming concepts (C & Assembly)
+* Bottleneck identification and scalability planning
+* Distributed system trade-offs and constraints
+
+---
+
+## 🧪 Testing & Code Quality
+
+* Unit testing (JUnit, Mockito)
+* Integration testing for REST APIs
+* Testable and isolated business logic
+* Refactoring-oriented mindset
+* Focus on long-term maintainability
+
+---
+
+## 🚧 Projects
+
+> Public projects are currently being organized and refined.
+> Selected repositories will be published soon.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🛠 Project Alpha
-**Status:** Ocious
-**Focus:**
-**Stack:**
-
-<a href="#" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Repository-Maintenance-yellow?style=for-the-badge">
-</a>
-
-</td>
-<td width="33%" valign="top">
-
-### 🛠 Project Beta
-**Status:** Ocious
-**Focus:**
-**Stack:**
-
-<a href="#" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Repository-Maintenance-yellow?style=for-the-badge">
-</a>
-
-</td>
-<td width="33%" valign="top">
-
-### 🛠 Project Gamma
-**Status:** Ocious
-**Focus:**
-**Stack:**
-
-<a href="#" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Repository-Maintenance-yellow?style=for-the-badge">
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Watashi00&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Watashi00\&theme=radical)
 
 </div>
 
@@ -170,15 +157,15 @@ Passionate about building **complete, end-to-end solutions**, from low-level det
 
 ## 📫 Contact
 
-- 📧 Email: **rodrigoassuncao3223@gmail.com**
-- 📧 Org: **watashi@hexacloud.net.br**
+* 📧 Email: **[rodrigoassuncao3223@gmail.com](mailto:rodrigoassuncao3223@gmail.com)**
+* 📧 Organization: **[watashi@hexacloud.net.br](mailto:watashi@hexacloud.net.br)**
 
 ---
 
 ### 💬 Fun Fact
 
-Always looking to learn new technologies, explore different paradigms, and continuously improve how **systems are designed, built, and scaled**.
+Always exploring new technologies and paradigms, with a constant focus on **how systems are designed, built, and scaled**.
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Watashi00.Watashi00&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Watashi00.Watashi00&" />
 </div>
