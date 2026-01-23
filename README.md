@@ -149,7 +149,7 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Watashi00\&theme=radical)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Watashi00)
 
 </div>
 
