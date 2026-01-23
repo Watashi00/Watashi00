@@ -149,7 +149,9 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Watashi00)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Watashi00&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Watashi00&layout=compact&theme=github_dark)
+
 
 </div>
 
