@@ -145,17 +145,28 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
 
 ---
 
-## Overview
-![Overview](http://github.hexacloud.net.br/api/overview?username=watashi00&theme=dark)
-
-## 📊 GitHub Stats
+## Statistics, API created by me.
+![Overview](http://github.hexacloud.net.br/api/overview?username=watashi00&theme=dracula)
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Watashi00&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Watashi00&layout=compact&theme=github_dark)
-
+  <table>
+    <tr>
+      <td>
+        <img
+          src="http://github.hexacloud.net.br/api/top-langs?username=watashi00&theme=dracula"
+          alt="Top Langs"
+        />
+      </td>
+      <td>
+        <img
+          src="http://github.hexacloud.net.br/api?username=watashi00&theme=dracula&show_icons=true"
+          alt="GitHub Stats"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
