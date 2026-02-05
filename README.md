@@ -22,6 +22,7 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge\&logo=assemblyscript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
@@ -31,6 +32,7 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
 ### Frameworks & Runtimes
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge\&logo=bun\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 
@@ -90,6 +92,7 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 
 ---
 
@@ -140,8 +143,29 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
 
 ## 🚧 Projects
 
-> Public projects are currently being organized and refined.
-> Selected repositories will be published soon.
+<table width="100%" cellspacing="0" cellpadding="14" bgcolor="#0d1117" style="border:1px solid #2d333b; border-radius:14px;">
+  <tr>
+    <td align="center">
+      <img src="https://github.hexacloud.net.br/assets/logo/logo-mark.svg" width="36" height="36" alt="GitHub Stats logo" /><br/>
+      <strong>GitHub Stats (gh_stats)</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Fast, customizable SVG cards for GitHub profiles (stats, top langs, overview).<br/><br/>
+      <strong>Stack:</strong> Bun · TypeScript · HTML/CSS · SVG · GitHub API<br/><br/>
+      <a href="https://github.hexacloud.net.br">
+        <img src="https://img.shields.io/badge/Live-Visit-00c2ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Portfolio
+
+<a href="https://watashikoneko.com.br/">watashikoneko.com.br</a>
 
 ---
 
