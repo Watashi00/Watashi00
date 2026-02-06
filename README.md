@@ -170,7 +170,7 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
 ---
 
 ## Statistics, API created by me.
-![Overview](http://github.hexacloud.net.br/api/overview?username=watashi00&theme=dracula)
+![Overview](https://github.hexacloud.net.br/api/overview?username=watashi00&theme=dracula&include_forks=true)
 
 <div align="center">
   <table>
@@ -183,7 +183,7 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
       </td>
       <td>
         <img
-          src="https://github.hexacloud.net.br/api/overview?username=watashi00&theme=dark&include_forks=true"
+          src="https://github.hexacloud.net.br/api?username=watashi00&theme=dracula&show_icons=true"
           alt="GitHub Stats"
         />
       </td>
