@@ -177,13 +177,13 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
     <tr>
       <td>
         <img
-          src="http://github.hexacloud.net.br/api/top-langs?username=watashi00&theme=dracula"
+          src="https://github.hexacloud.net.br/api/top-langs?username=watashi00&theme=dracula"
           alt="Top Langs"
         />
       </td>
       <td>
         <img
-          src="http://github.hexacloud.net.br/api?username=watashi00&theme=dracula&show_icons=true"
+          src="https://github.hexacloud.net.br/api/overview?username=watashi00&theme=dark&include_forks=true"
           alt="GitHub Stats"
         />
       </td>
