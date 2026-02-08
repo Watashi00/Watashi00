@@ -170,7 +170,7 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
 ---
 
 ## Statistics, API created by me.
-![Overview](https://github.hexacloud.net.br/api/overview?username=watashi00&theme=dracula&include_forks=true)
+![Overview](https://github.hexacloud.net.br/api/overview?username=watashi00&theme=dracula&include_forks=true&overview_chart=both)
 
 <div align="center">
   <table>
