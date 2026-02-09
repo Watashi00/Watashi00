@@ -177,7 +177,7 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
     <tr>
       <td>
         <img
-          src="https://github.hexacloud.net.br/api/top-langs?username=watashi00&theme=dracula"
+          src="https://github.hexacloud.net.br/api/top-langs?username=watashi00&theme=dracula&langs_count=6"
           alt="Top Langs"
         />
       </td>
