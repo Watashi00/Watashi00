@@ -165,7 +165,7 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
 
 ## 🌐 Portfolio
 
-<a href="https://watashikoneko.com.br/">watashikoneko.com.br</a>
+<a href="https://watashikoneko.com.br/">watashikoneko.com.br</a> Created by AI. I will make one soon.
 
 ---
 
