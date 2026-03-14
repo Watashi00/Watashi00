@@ -16,6 +16,30 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
 
 ---
 
+## Statistics, API created by me.
+![Overview](https://github.hexacloud.net.br/api/overview?username=watashi00&theme=dracula&include_forks=true&overview_chart=both)
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github.hexacloud.net.br/api/top-langs?username=watashi00&theme=tokyonight&include_forks=true&langs_count=6&hide_border=false&border_radius=14"
+          alt="Top Langs"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github.hexacloud.net.br/api?username=watashi00&theme=dracula&show_icons=true"
+          alt="GitHub Stats"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+---
 ## 🛠 Technologies & Tools
 
 ### Programming Languages
@@ -166,31 +190,6 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
 ## 🌐 Portfolio
 
 <a href="https://watashikoneko.com.br/">watashikoneko.com.br</a> Created by AI. I will make one soon.
-
----
-
-## Statistics, API created by me.
-![Overview](https://github.hexacloud.net.br/api/overview?username=watashi00&theme=dracula&include_forks=true&overview_chart=both)
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github.hexacloud.net.br/api/top-langs?username=watashi00&theme=dracula&langs_count=6"
-          alt="Top Langs"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github.hexacloud.net.br/api?username=watashi00&theme=dracula&show_icons=true"
-          alt="GitHub Stats"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 ---
 
