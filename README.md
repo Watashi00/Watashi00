@@ -13,32 +13,6 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
 * Comfortable working across **multiple languages, runtimes, and paradigms**
 * Strong focus on **performance, scalability, and system reliability**
 * Pragmatic approach to software design and infrastructure decisions
-
----
-
-## Statistics, API created by me.
-![Overview](https://github.hexacloud.net.br/api/overview?username=watashi00&theme=dracula&include_forks=true&overview_chart=both)
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github.hexacloud.net.br/api/top-langs?username=watashi00&theme=tokyonight&include_forks=true&langs_count=6&hide_border=false&border_radius=14"
-          alt="Top Langs"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github.hexacloud.net.br/api?username=watashi00&theme=dracula&show_icons=true"
-          alt="GitHub Stats"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 ---
 ## 🛠 Technologies & Tools
 
@@ -162,35 +136,6 @@ I enjoy designing and building **end-to-end systems**, from low-level implementa
 * Testable and isolated business logic
 * Refactoring-oriented mindset
 * Focus on long-term maintainability
-
----
-
-## 🚧 Projects
-
-<table width="100%" cellspacing="0" cellpadding="14" bgcolor="#0d1117" style="border:1px solid #2d333b; border-radius:14px;">
-  <tr>
-    <td align="center">
-      <img src="https://github.hexacloud.net.br/assets/logo/logo-mark.svg" width="36" height="36" alt="GitHub Stats logo" /><br/>
-      <strong>GitHub Stats (gh_stats)</strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Fast, customizable SVG cards for GitHub profiles (stats, top langs, overview).<br/><br/>
-      <strong>Stack:</strong> Bun · TypeScript · HTML/CSS · SVG · GitHub API<br/><br/>
-      <a href="https://github.hexacloud.net.br">
-        <img src="https://img.shields.io/badge/Live-Visit-00c2ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌐 Portfolio
-
-<a href="https://watashikoneko.com.br/">watashikoneko.com.br</a> Created by AI. I will make one soon.
-
 ---
 
 ## 📫 Contact
