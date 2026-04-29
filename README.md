@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rodrigo (Watashi00)
 
-I am a **Back-end Engineer** focused on **Java, Spring Boot, and SQL/NoSQL**, with a strong emphasis on **system architecture, scalability, distributed systems, and performance**.
+I am a **Back-end Engineer** focused on **C, Java, Spring Boot, and SQL/NoSQL**, with a strong emphasis on **system architecture, scalability, distributed systems, and performance**.
 
 I enjoy designing and building **end-to-end systems**, from low-level implementation details to high-level architectural decisions, always prioritizing maintainability and long-term evolution.
 
